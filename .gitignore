@@ -1,0 +1,75 @@
+# ═══════════════════════════════════════
+# KICAD — Auto-generated, never commit
+# ═══════════════════════════════════════
+
+# Backup folders (KiCad auto-creates these)
+*-backups/
+**/*-backups/
+
+# Auto-save files
+_autosave-*
+**/_autosave-*
+
+# Lock files (created when project is open)
+*.lck
+
+# Cache files
+fp-info-cache
+**/.cache/
+
+# Old/temp file versions
+*.000
+*.bak
+*.tmp
+*.~*
+
+# KiCad local config (machine-specific)
+*.kicad_prl
+
+# ═══════════════════════════════════════
+# FIRMWARE — Arduino / ESP-IDF / PlatformIO
+# ═══════════════════════════════════════
+
+# ESP-IDF build output
+build/
+**/build/
+
+# PlatformIO build output
+.pio/
+**/.pio/
+
+# VS Code workspace settings (machine-specific)
+.vscode/
+**/.vscode/
+
+# Arduino cache
+*.elf
+*.bin
+*.hex
+*.map
+
+# Old SDK config
+sdkconfig.old
+
+# Managed components (auto-downloaded)
+managed_components/
+dependencies.lock
+
+# ═══════════════════════════════════════
+# GENERAL — OS & Editor junk
+# ═══════════════════════════════════════
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Mac
+.DS_Store
+.AppleDouble
+
+# Log files
+*.log
+
+# Temp files
+*.tmp
+*.temp
